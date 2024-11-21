@@ -19,7 +19,7 @@ function App() {
       {/* Bottoni invisibili */}
       <div className="absolute top-3/4 left-[22%] w-[21%] h-[10%] z-10">
         <a
-          href="https://maps.google.com" // Sostituisci con il link a Google Maps
+          href="https://maps.app.goo.gl/t6Jd8ASUKCSgj6Ap9" // Sostituisci con il link a Google Maps
           target="_blank"
           rel="noopener noreferrer"
           className="block w-full h-full"
@@ -28,7 +28,7 @@ function App() {
       </div>
       <div className="absolute top-3/4 left-[57%] w-[21%] h-[10%] z-10">
         <a
-          href="tel:+1234567890" // Sostituisci con il numero di telefono
+          href="tel:+393385490377" // Sostituisci con il numero di telefono
           className="block w-full h-full"
           title="Ordinare a casa"
         ></a>
